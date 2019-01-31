@@ -1,2 +1,1 @@
-# ManiRepo edited
-hello
+# ManiRepo
